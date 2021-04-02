@@ -7,10 +7,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on slowing down and taking my time. 
-- 🌱 I’m currently learning best practices in project management headless browser testing & using Giphy to it's full potential.
-- 🤔 I’m looking for help with an unspecified project that will shortly become open-source. Spoler alert: it involves a digital literacy onboarding platform for people entering the tech industry. Will probable be starting in earnest in September 2020, feel free to send an email to `mikhael@hey.com` if that sounds intriguing.
-- 📫 How to reach me: email `mikhael@hey.com`
+- 🔭 Currently on a sabbatical, exploring new tech, building out a few projects. 
+- 🌱 Growing as a developer and professional isn't just code - it's working on your lifestyle & mental habits to operate at peak performance.
+- 📫 Open to evaluating opportunities. How to reach me: email `mikhael@hey.com`
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I got my bachelors degree when I was 20 years old.
+- ⚡ Fun fact: Did you know Queen bees vaccinate their brood? It's true, they inject trace amounts of protein from a disease-causing agent which prevents colonies from suffering pandemics. Nature is wonderful.
 
