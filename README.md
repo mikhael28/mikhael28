@@ -73,7 +73,7 @@
 
 [website]: https://pareto.education
 [course]: https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2
-[twitter]: https://twitter.com/mikhael28
+[twitter]: https://twitter.com/heymisha28
 [youtube]: https://www.youtube.com/channel/UCCMPsQDkQMfHKeUZOsphpIg
 [instagram]: https://instagram.com/mikhael28
 [linkedin]: https://www.linkedin.com/in/michaellitchev/
