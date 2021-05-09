@@ -10,7 +10,7 @@
 - ⚡ Fun fact: My girlfriend and I have 4 stuffed animal kids together.
 
 [![Website](https://img.shields.io/website?label=pareto.education&style=for-the-badge&url=https%3A%2F%2Fpareto.education)](https://pareto.education)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mikhael28?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmikhael28&screen_name=mikhael28)
+[![Twitter Follow](https://img.shields.io/twitter/follow/heymisha28?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmikhael28&screen_name=heymisha28)
 
 
 ### Connect with me:
