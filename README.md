@@ -1,4 +1,4 @@
-### Hi there, I'm Misha - aka Pareto Learning[website] 👋
+### Hi there, I'm Misha - aka Pareto Learning [website] 👋
 
 ## I'm a developer, explorer, teacher & father to four stuffed animal kids
 
