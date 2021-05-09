@@ -75,7 +75,7 @@
 [course]: https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2
 [twitter]: https://twitter.com/heymisha28
 [youtube]: https://www.youtube.com/channel/UCCMPsQDkQMfHKeUZOsphpIg
-[instagram]: https://instagram.com/mikhaelbd
+[instagram]: https://instagram.com/mikhael_28
 [linkedin]: https://www.linkedin.com/in/michaellitchev/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2
 [jsplaylist]: https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2
