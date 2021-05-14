@@ -54,7 +54,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The I-Ching - How Ancient Chinese Divination informs Political and Business Decisions Today](https://paretolearn.substack.com/p/hello-world)
+- [The I-Ching Meets Open Source - Ancient Chinese Divination + TypeScript](https://paretolearn.substack.com/p/the-yi-jing-meets-open-source)
 
 <!-- BLOG-POST-LIST:END -->
 
