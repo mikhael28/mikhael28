@@ -2,12 +2,12 @@
 
 ## I'm a developer, explorer, teacher & father to four stuffed animal kids
 
-- 🔭 Currently on a working sabbatical, exploring new tech, building out a few projects under my side-hustle Pareto Learning. 
+- 🔭 Currently on a working sabbatical, exploring new tech, building out a few projects! 
 - 🔭 I have a free, introductory video series to practical, deployment ready React.js programming for jr devs: [Full-Stack React][course]!
 - 🌱 2021 Goals: get in better shape, and hit par on a 9-hole par 3 course. 
 - 📫 Open to evaluating opportunities. How to reach me: email `mikhael@hey.com`
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: My girlfriend and I have 4 stuffed animal kids together.
+- ⚡ Fun fact: my favorite food is Hot Pot, especially at Hai Di Lao!
 
 [![Website](https://img.shields.io/website?label=pareto.education&style=for-the-badge&url=https%3A%2F%2Fpareto.education)](https://pareto.education)
 [![Twitter Follow](https://img.shields.io/twitter/follow/heymisha28?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmikhael28&screen_name=heymisha28)
@@ -37,8 +37,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
@@ -46,8 +44,6 @@
 <!-- YOUTUBE:START -->
 - [Full-Stack React 101 - From JS Basics to Deployment with AWS-Amplify](https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2)
 <!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCCMPsQDkQMfHKeUZOsphpIg)
 
 ---
 
@@ -57,8 +53,6 @@
 - [The I-Ching Meets Open Source - Ancient Chinese Divination + TypeScript](https://paretolearn.substack.com/p/the-yi-jing-meets-open-source)
 
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://paretolearn.substack.com/)
 
 [website]: https://pareto.education
 [course]: https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2
