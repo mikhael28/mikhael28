@@ -3,15 +3,10 @@
 ## I'm a developer, explorer, teacher & father to four stuffed animal kids
 
 - 🔭 Currently on a working sabbatical, exploring new tech, building out a few projects! 
-- 🔭 I have a free, introductory video series to practical, deployment ready React.js programming for jr devs: [Full-Stack React][course]!
 - 🌱 2021 Goals: get in better shape, and hit par on a 9-hole par 3 course. 
-- 📫 Open to evaluating opportunities. How to reach me: email `mikhael@hey.com`
+- 📫 Evaluating opportunities. How to reach me: email `mikhael@hey.com`
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: my favorite food is Hot Pot, especially at Hai Di Lao!
-
-[![Website](https://img.shields.io/website?label=pareto.education&style=for-the-badge&url=https%3A%2F%2Fpareto.education)](https://pareto.education)
-[![Twitter Follow](https://img.shields.io/twitter/follow/heymisha28?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmikhael28&screen_name=heymisha28)
-
 
 ### Connect with me:
 
