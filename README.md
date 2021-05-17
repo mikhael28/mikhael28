@@ -40,8 +40,6 @@
 - [Full-Stack React 101 - From JS Basics to Deployment with AWS-Amplify](https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2)
 <!-- YOUTUBE:END -->
 
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
