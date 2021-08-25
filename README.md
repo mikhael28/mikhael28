@@ -2,8 +2,8 @@
 
 ## I'm a developer, explorer, teacher & father to four stuffed animal kids
 
-- 🔭 Currently on a working sabbatical, exploring new tech, building out a few projects! 
-- 🌱 2021 Goals: get in better shape, and hit par on a 9-hole par 3 course. 
+- 🔭 Wrapping up an open-source sabbatical, exploring new tech, building out a few projects! 
+- 🌱 2021 Goals: get in better shape, and hit par on a 9-hole par 3 course. My best has been 37. 
 - 📫 Evaluating opportunities. How to reach me: email `mikhael@hey.com`
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: my favorite food is Hot Pot, especially at Hai Di Lao!
