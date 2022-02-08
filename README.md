@@ -2,8 +2,8 @@
 
 ## I'm a developer, explorer, teacher & father to four stuffed animal kids
 
-- 🔭 Wrapping up an open-source sabbatical, exploring new tech, building out a few projects! 
-- 🌱 2021 Goals: get in better shape, and hit par on a 9-hole par 3 course. My best has been 37. 
+- 🔭 Helping disrupt the the rail freight industry at Cedar, working on front-end, mobile & touching the back-end once in a while.
+- 🌱 2022 Goals: Hit par on a par 3 course.
 - 📫 Evaluating opportunities. How to reach me: email `mikhael@hey.com`
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: my favorite food is Hot Pot, especially at Hai Di Lao!
@@ -31,7 +31,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://pareto.education
+[website]: https://paret0.com
 [course]: https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2
 [twitter]: https://twitter.com/heymisha28
 [youtube]: https://www.youtube.com/channel/UCCMPsQDkQMfHKeUZOsphpIg
