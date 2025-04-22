@@ -1,7 +1,5 @@
 ### Hi there, I'm Misha 👋
 
-## I'm a founder, software engineer, author & father to six stuffed animal kids
-
 - 🌎 Founder of [Expatria](https://expatriaonline.com), technology platform to help people retire early by moving abroad.
 - 🚞 Previoulsly helped disrupt the the freight-rail industry at [Cedar AI](https://cedarai.com)
 - 📖 Author of [Journey to the East; Post-COVID China](https://www.amazon.com/Journey-East-Post-COVID-Michael-Nightingale-ebook/dp/B0CZDF9MNW/), a travelogue and tour of modern China, it's culture, people and history.
