@@ -1,12 +1,16 @@
 ### Hi there, I'm Misha 👋
 
-## I'm a developer, explorer, teacher & father to four stuffed animal kids
+## I'm a founder, software engineer, author & father to six stuffed animal kids
 
-- 🔭 Helping disrupt the the rail freight industry at Cedar, working on front-end, mobile & touching the back-end once in a while.
-- 🌱 2022 Goals: Hit par on a par 3 course.
-- 📫 How to reach me: email `mikhael@hey.com`
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: my favorite food is Hot Pot, especially at Hai Di Lao!
+- 🌎 Founder of [Expatria](https://expatriaonline.com), technology platform to help people retire early by moving abroad.
+- 🚞 Previoulsly helped disrupt the the freight-rail industry at [Cedar AI](https://cedarai.com)
+- 📖 Author of [Journey to the East; Post-COVID China](https://www.amazon.com/Journey-East-Post-COVID-Michael-Nightingale-ebook/dp/B0CZDF9MNW/), a travelogue and tour of modern China, it's culture, people and history.
+- 🌱 2025 Goals: Hit par on a par 3 course.
+- ⚡ Fun fact: I graduated from college when I was 20.
+- 📫 How to reach me: email `mikhael@hey.com` or `michael@expatriaonline.com`
+
+Check out my some of my old projects on GitHub, including Paret0 & the Oracle of Changes; 5000 year old Chinese Divination algorithm, in dressed up in TypeScript.
+
 
 ### Connect with me:
 
@@ -31,15 +35,10 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://paret0.com
 [course]: https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2
 [twitter]: https://twitter.com/heymisha28
 [youtube]: https://www.youtube.com/channel/UCCMPsQDkQMfHKeUZOsphpIg
-[instagram]: https://instagram.com/mikhael_28
 [linkedin]: https://www.linkedin.com/in/michaellitchev/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2
-[jsplaylist]: https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2
 [substack]: https://paretolearn.substack.com/
-[reactplaylist]: https://www.youtube.com/playlist?list=PLhewciF1MTUT69i8vGuxm6qTSRbxFufQ2
 
 
