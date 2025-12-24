@@ -1,6 +1,7 @@
 ### Hi there, I'm Misha 👋
 
-- 🌎 Founder of [Expatria](https://expatriaonline.com), technology platform to help people retire early by moving abroad.
+- 💻 Open source maintainer, including npm packages such as [national-metadata](https://www.npmjs.com/package/national-metadata), [seattle-open-json](https://www.npmjs.com/package/seattle-open-json) and [yi-jing-oracle](https://www.npmjs.com/package/yi-jing-oracle).
+- 🌎 Creator of [Expatria](https://expatriaonline.com), technology platform to help people retire early by moving abroad.
 - 🚞 Previously helped disrupt the the freight-rail industry at [Cedar AI](https://cedarai.com)
 - 📖 Author of [Journey to the East; Post-COVID China](https://www.amazon.com/Journey-East-Post-COVID-Michael-Nightingale-ebook/dp/B0CZDF9MNW/), a travelogue and tour of China's culture, people and history.
 - 📫 How to reach me: email `mikhael@hey.com` or `michael@expatriaonline.com`
