@@ -6,4 +6,4 @@
 - 📖 Author of [Journey to the East; Post-COVID China](https://www.amazon.com/Journey-East-Post-COVID-Michael-Nightingale-ebook/dp/B0CZDF9MNW/), a travelogue and tour of China's culture, people and history.
 - 📫 How to reach me: email `mikhael@hey.com` or `michael@expatriaonline.com`
 
-- Some old open-source code I wrote before the age of ChatGPT includes [Par 3 Pickup](https://github.com/mikhael28/par-3-pickup.git), [ParetOS](https://github.com/mikhael28/paretOS), and the [I-Ching (Classic)](https://github.com/mikhael28/i-ching). 
+- Some old open-source code I wrote before the age of ChatGPT includes [ParetOS](https://github.com/mikhael28/paretOS), the [I-Ching (Classic)](https://github.com/mikhael28/i-ching) and [Par 3 Pickup](https://github.com/mikhael28/par-3-pickup.git),. 
